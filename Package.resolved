@@ -48,10 +48,9 @@
     {
       "identity" : "web3.swift",
       "kind" : "remoteSourceControl",
-      "location" : "https://github.com/argentlabs/web3.swift",
+      "location" : "https://github.com/varunlohade/web3swift-dependencyfix.git",
       "state" : {
         "revision" : "0474eb5e883bc4800b3909833207a1d35e72b808",
-        "version" : "0.9.3"
       }
     }
   ],
